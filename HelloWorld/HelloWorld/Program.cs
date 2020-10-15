@@ -26,6 +26,8 @@ namespace HelloWorld
             // Console is a class in the namespace "System" and has the method called "WriteLine"
             Console.WriteLine("Hello World!");
             Console.WriteLine("Test");
+            Console.WriteLine("This is your father");
+            Console.WriteLine("And his name is John Cena");
         }
     }
 }
